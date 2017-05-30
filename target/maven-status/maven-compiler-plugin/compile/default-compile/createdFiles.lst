@@ -1,3 +1,3 @@
-com/bharathippireddy/trainings/jaxrs/dto/PassengerList.class
-com/bharathippireddy/trainings/jaxrs/dto/Passenger.class
-com/bharaththippireddy/trainings/jaxrs/PassengerService.class
+com/amirbhujel/rest/dto/Passenger.class
+com/amirbhujel/rest/dto/PassengerList.class
+com/amirbhujel/rest/PassengerService.class

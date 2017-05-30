@@ -9,7 +9,7 @@
 		
 		<init-param>
 			<param-name>jaxrs.serviceClasses</param-name>
-			<param-value>com.bharaththippireddy.trainings.jaxrs.PassengerService
+			<param-value>com.amirbhujel.rest.PassengerService
 			</param-value>
 		</init-param>
 		
